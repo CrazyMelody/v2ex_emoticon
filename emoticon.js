@@ -3,6 +3,7 @@
 // @version      0.1
 // @description  让V2EX 支持微博表情
 // @author       LawSiki
+// @namespace    https://github.com/CrazyMelody/v2ex_emoticon
 // @match        https://www.v2ex.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=v2ex.com
 // ==/UserScript==
